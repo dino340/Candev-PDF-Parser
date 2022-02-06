@@ -4,6 +4,8 @@ An information extraction algorithm that would scan financial statements in PDFs
 # Operation
 This was written using Google Colab to prevent any platform issues, so the code is best run there with a google drive mounted to export the finished JSON files and OCR'ed PDFs if desired.
 
+OCRmyPDF will convert PDFs which can be saved on a Colab connected Google Drive, Camelot will access the converted PDFs and extract tables from them.
+
 # Packages used
 Uses OCRmyPDF to convert scanned PDFs to a text PDF that can be scanned with Camelot
 
