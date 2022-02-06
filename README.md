@@ -1,6 +1,8 @@
 # Candev-PDF-Parser
 An information extraction algorithm that would scan financial statements in PDFs format and convert the information into a database format. For the 2022 Candev Challenge
 
+Presentation slides can be found here: https://www.canva.com/design/DAE3mPL9Odw/PySAsG8orphpdTwU88Iogg/view?utm_content=DAE3mPL9Odw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 # Operation
 This was written using Google Colab to prevent any platform issues, so the code is best run there with a google drive mounted to export the finished JSON files and OCR'ed PDFs if desired.
 
